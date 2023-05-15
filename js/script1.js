@@ -1,1 +1,2 @@
-document.write("lol");
+var inf= ("lol")
+document.write(inf);
